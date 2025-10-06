@@ -25,8 +25,11 @@ root@DESKTOP-5GL2502:~# sudo cat /var/log/user_management.log  - for executing a
 2025-10-05 10:18:06 - Set permissions for /home/mayowa
 2025-10-05 10:18:06 - Password set for mayowa
 2025-10-05 10:18:06 - Script completed
+<img width="551" height="362" alt="L1 h" src="https://github.com/user-attachments/assets/b03bba45-74b1-45bd-9f21-702782c9f561" />
 
 root@DESKTOP-5GL2502:~# sudo cat /var/secure/user_passwords.csv  - for executing and checking
 light,BsBh6CkRzi9be4
 idimma,S6Em5CceuOVpeZ
 mayowa,91YhWoR8VmKQtL
+<img width="596" height="59" alt="hi" src="https://github.com/user-attachments/assets/d213d3ba-9edf-413d-976f-dedd5ada701a" />
+
